@@ -40,4 +40,4 @@ To execute Spring-Boot -which has embedded a TomCat server implementation-, you 
 
 Also, the "old-school" procedure to execute it is by packaging by running **mvn package** in the shell. The resulting jar file in the target folder contains all classes and libraries. To execute the jar we need to run the following command:
 
->java -jar target/spring-skeleton-0.0.3-SNAPSHOT.jar.
+>java -jar target/BaseSpringBootRESTApp-1.0-SNAPSHOT.jar.

@@ -22,15 +22,15 @@ The runner Maven App configuration as next:
 Command: the *mvn* params (clean, install, packaged, etc.)
 > spring-boot:run
 
-![Alt text](/images/intelliJRun_Params?raw=true)
+![Alt text](/images/intelliJRun_Params.PNG?raw=true)
 
 General: Maven Home Directory
-![Alt text](/images/intelliJRun_General?raw=true)
+![Alt text](/images/intelliJRun_General.PNG?raw=true)
 
 Runner: VM Options
 > -Dmaven.multiModuleProjectDirectory=Your_MVN_DIST_DIR
 
-![Alt text](/images/intelliJRun_Runner?raw=true)
+![Alt text](/images/intelliJRun_Runner.PNG?raw=true)
 
 Run
 ---------------------------

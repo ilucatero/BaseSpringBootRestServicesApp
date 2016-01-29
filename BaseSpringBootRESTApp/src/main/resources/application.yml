@@ -1,0 +1,16 @@
+
+spring:
+  application.name: sprinbootgtutorial
+
+application:
+  url: http://localhost:8080
+
+web:
+  home: http://www.licaterori.info
+
+mongo.persistence:
+  databaseName: sprinbootgtutorial
+  databaseHosts:
+    - localhost
+#  login: portal
+#  password: portal

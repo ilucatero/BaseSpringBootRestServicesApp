@@ -1,0 +1,9 @@
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\controllers\PlaceController.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\spring\cofig\mongo\DefaultMongoConfig.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\repositories\PlaceRepository.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\domains\Place.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\spring\cofig\mongo\MongoConfiguration.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\services\PlaceServiceImpl.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\Filteres\CrossDomainFilter.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\services\PlaceService.java
+H:\workspace\springboottutorial\src\main\java\com\lucaterori\MainLauncher.java

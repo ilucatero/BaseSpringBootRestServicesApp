@@ -1,0 +1,10 @@
+com\lucaterori\services\PlaceServiceImpl.class
+com\lucaterori\repositories\PlaceRepository.class
+com\lucaterori\services\PlaceService.class
+com\lucaterori\spring\cofig\mongo\MongoConfiguration$PersistenceProperties.class
+com\lucaterori\Filteres\CrossDomainFilter.class
+com\lucaterori\MainLauncher.class
+com\lucaterori\domains\Place.class
+com\lucaterori\spring\cofig\mongo\DefaultMongoConfig.class
+com\lucaterori\controllers\PlaceController.class
+com\lucaterori\spring\cofig\mongo\MongoConfiguration.class
